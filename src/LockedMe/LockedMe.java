@@ -72,7 +72,7 @@ public class LockedMe {
                     break;
                 }
                 case 2 : {
-                    System.out.print(" Deleting a file...Please Enter a File Name : ");
+                    System.out.print(" Deleting a file Please Enter a File Name : ");
                     String filename = scanner.next().trim();
                     deleteFile(filename);
                     break;
