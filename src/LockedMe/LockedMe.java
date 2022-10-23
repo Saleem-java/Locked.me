@@ -17,8 +17,7 @@ public class LockedMe {
     }
 
     private static final String WELCOME_PROMPT =
-            "\n--------------  LockedMe.com --------------"+
-                    "\n-------------- Saleem --------------\n";
+            "\n--------------  LockedMe.com --------------";
 
     private static final String MAIN_MENU_PROMPT =
             "\nMAIN MENU - Select: \n"+
