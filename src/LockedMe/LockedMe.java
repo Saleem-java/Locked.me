@@ -46,7 +46,7 @@ public class LockedMe {
                     showSecondaryMenu();
                 }
                 case 3 : {
-                    System.out.println("Thank You");
+                    System.out.println("Thank You!");
                     System.exit(0);
                 }
                 default: showPrimaryMenu();
